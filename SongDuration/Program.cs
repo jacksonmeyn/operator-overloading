@@ -10,6 +10,7 @@ namespace SongDuration
     {
         static void Main(string[] args)
         {
+            //Adding extra comments
 
             Console.WriteLine("Test the constructor by entering some invalid parameters");
             SongDuration invalidDuration1 = new SongDuration(-5, 43);
