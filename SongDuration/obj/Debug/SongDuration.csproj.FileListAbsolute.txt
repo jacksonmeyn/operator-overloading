@@ -1,0 +1,7 @@
+C:\Users\jacks\Documents\AAAUni\Object Oriented Programming\JacksonMeyn_Assignment2\JacksonMeyn_Part3\SongDuration\SongDuration\bin\Debug\SongDuration.exe.config
+C:\Users\jacks\Documents\AAAUni\Object Oriented Programming\JacksonMeyn_Assignment2\JacksonMeyn_Part3\SongDuration\SongDuration\bin\Debug\SongDuration.exe
+C:\Users\jacks\Documents\AAAUni\Object Oriented Programming\JacksonMeyn_Assignment2\JacksonMeyn_Part3\SongDuration\SongDuration\bin\Debug\SongDuration.pdb
+C:\Users\jacks\Documents\AAAUni\Object Oriented Programming\JacksonMeyn_Assignment2\JacksonMeyn_Part3\SongDuration\SongDuration\obj\Debug\SongDuration.csprojResolveAssemblyReference.cache
+C:\Users\jacks\Documents\AAAUni\Object Oriented Programming\JacksonMeyn_Assignment2\JacksonMeyn_Part3\SongDuration\SongDuration\obj\Debug\SongDuration.csproj.CoreCompileInputs.cache
+C:\Users\jacks\Documents\AAAUni\Object Oriented Programming\JacksonMeyn_Assignment2\JacksonMeyn_Part3\SongDuration\SongDuration\obj\Debug\SongDuration.exe
+C:\Users\jacks\Documents\AAAUni\Object Oriented Programming\JacksonMeyn_Assignment2\JacksonMeyn_Part3\SongDuration\SongDuration\obj\Debug\SongDuration.pdb
